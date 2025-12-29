@@ -7,7 +7,7 @@
   "readme": "README.md",
   "repository": {
     "type": "git",
-    "url": "https://www.github.com/Cortlet-Software/seo4spa.git"
+    "url": "git+https://github.com/Cortlet-Software/seo4spa.git"
   },
   "keywords": [
     "seo",
