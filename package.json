@@ -1,0 +1,32 @@
+{
+  "name": "seo4spa",
+  "version": "1.0.0",
+  "description": "Simple meta tag utilities for Single Page Applications.",
+  "main": "src/index.js",
+  "type": "module",
+  "readme": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/Cortlet-Software/seo4spa.git"
+  },
+  "keywords": [
+    "seo",
+    "spa",
+    "meta",
+    "tags"
+  ],
+  "license": "Apache-2.0",
+  "types": "src/types/seo4spa.d.ts",
+  "author": "Cortlet",
+  "exports": {
+    ".": {
+      "import": "./src/index.js",
+      "types": "./src/types/seo4spa.d.ts"
+    }
+  },
+  "sideEffects": false,
+  "devDependencies": {
+    "jsdom": "^27.4.0",
+    "vitest": "^4.0.16"
+  }
+}
