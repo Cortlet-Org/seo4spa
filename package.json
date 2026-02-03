@@ -1,5 +1,5 @@
 {
-  "name": "seo4spa",
+  "name": "@cortlet/seo4spa",
   "version": "1.0.0",
   "description": "Simple meta tag utilities for Single Page Applications.",
   "main": "src/index.js",
